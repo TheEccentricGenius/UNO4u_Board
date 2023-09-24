@@ -1,4 +1,6 @@
-None: initial release.
+24/09/23: License updating done.
 
 23/09/23: Licensing to hopefully be inforced better. e.g. Abel Huxtable(TheEccentricGenius) instead of TheEccentricGenius.
           Planned for 24/09/23.
+
+None: initial release.
